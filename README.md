@@ -2829,6 +2829,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
   [![Orbit MCP connector](https://glama.ai/mcp/connectors/io.github.Noveum/orbit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Noveum/orbit)
   🔐 - Manage issues, projects, sprints, docs and files.
+- [OrgGen AI](https://www.orggen.ai/mcp) `https://www.orggen.ai/api/mcp`
+  [![OrgGen AI MCP connector](https://glama.ai/mcp/connectors/ai.orggen/orggen/badges/score.svg)](https://glama.ai/mcp/connectors/ai.orggen/orggen)
+  🔑 - Human-agent interface for projects: you prioritize and decide, your AI agents execute.
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
